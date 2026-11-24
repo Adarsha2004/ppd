@@ -1,0 +1,4 @@
+torch>=2.6        # needs torch.mps.compile_shader for the Metal scan kernel
+numpy
+opencv-python
+pyserial

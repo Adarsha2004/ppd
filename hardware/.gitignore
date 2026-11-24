@@ -1,0 +1,4 @@
+host/weights/
+host/recordings/
+firmware/thermal_streamer/wifi_secrets.h
+firmware/.pio/
